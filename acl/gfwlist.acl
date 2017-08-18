@@ -1090,6 +1090,8 @@
 ^(.*\.)?drmingxia\.org$
 ^(.*\.)?dropbox\.com$
 ^(.*\.)?dropboxusercontent\.com$
+^(.*\.)?notify\.dropboxapi\.com$
+^(.*\.)?cfl\.dropboxstatic\.com$
 ^(.*\.)?drsunacademy\.com$
 ^(.*\.)?drtuber\.com$
 ^(.*\.)?dscn\.info$
