@@ -3772,3 +3772,4 @@
 ^(.*\.)?phobos\.apple\.com$
 ^(.*\.)?resilio\.com$
 ^(.*\.)?getsync\.com$
+^(.*\.)?gitbooks\.io$
