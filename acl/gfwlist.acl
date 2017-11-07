@@ -3773,3 +3773,4 @@
 ^(.*\.)?resilio\.com$
 ^(.*\.)?getsync\.com$
 ^(.*\.)?gitbooks\.io$
+^(.*\.)?gitbook\.com$
