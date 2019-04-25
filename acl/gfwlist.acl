@@ -3774,3 +3774,4 @@
 ^(.*\.)?getsync\.com$
 ^(.*\.)?gitbooks\.io$
 ^(.*\.)?gitbook\.com$
+^(.*\.)?wikipedia.org$
